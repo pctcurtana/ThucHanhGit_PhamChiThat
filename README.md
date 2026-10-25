@@ -5,8 +5,7 @@ Repository này ghi lại quá trình thực hành Git và GitHub: quản lý ph
 cục bộ, làm việc với nhánh, cộng tác trên GitHub, khôi phục lịch sử và các
 công cụ nâng cao.
 
-- Sinh viên: Họ Tên - MSSV: xxxxxxx
-- Lớp: xxxxxxx
+- Sinh viên: Pham Chi That - MSSV: KTPM2211043
 
 ## 2. Cách sử dụng
 ```bash
